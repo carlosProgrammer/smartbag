@@ -2,11 +2,7 @@
 <a href="https://fiatex.io"><img src="https://fiatex.io/img/myAvatar.svg" alt="Total Downloads"></a>
 </p>
 
-<p align="center">
-<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/license.svg" alt="License"></a>
-</p>
+
 
 # Topics
 1. ### [Introduction](#1-introduction-)
